@@ -328,6 +328,7 @@ class TuyaZemismartSmartCover0601_3_battery(TuyaWindowCover):
                     Groups.cluster_id,
                     Scenes.cluster_id,
                     ZemismartManufClusterBattery,
+                    TuyaManufacturerWindowCover,
                     TuyaWindowCoverControl,
                     TuyaPowerConfigurationCluster,
                 ],
